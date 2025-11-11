@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+to-do.md
+main
+main.exe
+
+.DS_Store
